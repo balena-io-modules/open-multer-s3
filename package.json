@@ -4,7 +4,7 @@
   "description": "Streaming multer storage engine for AWS S3 - Fork of multer-s3",
   "main": "index.js",
   "scripts": {
-    "test": "standard && mocha test/basic.js"
+    "test": "standard && mocha test/__basic.js"
   },
   "engines": {
     "node": ">= 12.20"
@@ -37,6 +37,7 @@
     "@aws-sdk/client-s3": "3.200.0"
   },
   "devDependencies": {
+    "aws-sdk-client-mock": "^2.0.1",
     "express": "^4.13.1",
     "form-data": "^1.0.0-rc3",
     "mocha": "^10.2.0",
@@ -46,6 +47,3 @@
     "xtend": "^4.0.1"
   }
 }
-
-
-
