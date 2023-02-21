@@ -1,0 +1,14 @@
+- commits:
+    - subject: Update versions, fix size
+      hash: d14a6ac447117d1aa5d0d492169f33d5d745f00f
+      body: ""
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Ramiro Gonzalez <ramiro.gonzalez@balena.io>
+        signed-off-by: Ramiro Gonzalez <ramiro.gonzalez@balena.io>
+      author: Ramiro González Maciel
+      nested: []
+  version: 0.1.0
+  title: ""
+  date: 2023-02-21T18:39:41.827Z
